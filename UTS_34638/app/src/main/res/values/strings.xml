@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">UTS_34638</string>
+    <!--    main-->
+    <string name="mainTitle">SFX Library and Previewer</string>
+    <string name="profileBtn">Profile</string>
+    <string name="libraryBtn">Library</string>
+
+    <!--    loginPage-->
+    <string name="loginHeader">LOGIN PAGE</string>
+    <string name="loginHint">Masukan nama anda...</string>
+    <string name="loginBtn">Next</string>
+
+    <!--    profile-->
+    <string name="name">Carlos Maximilliano</string>
+    <string name="nim">00000034638</string>
+    <string name="kelas">IF 570-CL</string>
+    <string name="reference">REFERENSI:</string>
+    <string name="reference_1">https://www.tutorialspoint.com/how-to-hide-action-bar-in-android</string>
+    <string name="reference_2">https://github.com/lopspower/CircularImageView</string>
+    <string name="reference_3">https://stackoverflow.com/questions/19932793/syncing-android-studio-project-with-gradle-files</string>
+    <string name="reference_4">https://readyandroid.wordpress.com/android-textview-autolink-attribute/</string>
+    <string name="reference_5">https://axella-gerald.medium.com/tutorial-android-linear-layout-di-android-studio-2f425e5a303c</string>
+    <string name="reference_6">https://www.geeksforgeeks.org/implement-form-validation-error-to-edittext-in-android/</string>
+    <string name="reference_7">https://www.tutorialspoint.com/how-to-set-title-for-action-bar-in-android</string>
+    <string name="reference_8">https://medium.com/android-news/passing-data-between-activities-using-intent-in-android-85cb097f3016</string>
+    <string name="reference_9">https://developer.android.com/guide/topics/ui/notifiers/toasts</string>
+    <string name="reference_10">https://stackoverflow.com/questions/9334618/rounded-button-in-android</string>
+    <string name="reference_11">https://www.youtube.com/watch?v=C_Ka7cKwXW0</string>
+    <string name="reference_12">https://stackoverflow.com/questions/29339671/how-to-stop-media-player-on-back-pressed-regardless-of-whether-its-playing-or-n</string>
+    <string name="reference_13">https://www.youtube.com/watch?v=Mz5Mudj8yvc</string>
+    <string name="reference_14">Modul Lab Mobile UMN tercinta</string>
+
+<!--    detail audio-->
+    <string name="playBtn">Play</string>
+</resources>
