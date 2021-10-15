@@ -1,0 +1,2 @@
+Berdasarkan percobaan yang dilakukan, setiap kali text ditekan maka akan muncul tulisan "pernah diklik" disebelah tulisan.
+Setiap kali melakukan penambahan menggunakan fab, maka akan muncul tulisan "{angka terakhir} telah ditambahkan" 
